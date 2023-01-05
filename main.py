@@ -15,4 +15,6 @@ class D(B,C):
 
 objek = D()
 
+print("hello world")
+
 objek.show()
